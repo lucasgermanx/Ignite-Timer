@@ -1,5 +1,3 @@
-# React + TypeScript + Vite
-
 # [IGNITE TIMER (ROCKET SEAT :rocket:)](https://github.com/lucasgermanx/Ignite-Timer)
 
 ### Linguagem Utilizada
